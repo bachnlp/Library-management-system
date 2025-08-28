@@ -1,0 +1,7 @@
+id,name,username,password,email,phone,role,status
+ST001,Nguyen Van An,nvana,123456,nvana@example,912345678,Admin,Active
+ST002,Tran Thi Bich Ngoc,bichngoc,abc123,bichngoc@example.com,987654321,Librarian,Active
+ST003,Pham Minh Tuan,mintuan,tuanpass,mintuan@example.com,909999999,Librarian,Inactive
+ST004,Le Thi Mai,maile,mailove,maile@example.com,922233344,Admin,Active
+ST005,Do Van Hung,hungdv,hung321,hungdv@example.com,945566778,Support,Suspended
+ST006,Vu Hai Yen,yenhai,yenyen,yenhai@example.com,977123456,Librarian,Active

@@ -1,0 +1,63 @@
+isbn,title,author,category,status,year
+9,Computer Science,John Rawls,Design Paterrn,available,0
+10,Eat to Live,Joel Fuhrman,Health,issued,0
+11,City of Heavenly Fire,Cassandra Clare,Fiction,issued,0
+20,Immortals of Meluha,Amish Tirpathi,High Fantasy,issued,0
+12,Da Vinci Code,Dan Brown,Fiction,issued,0
+30,The Wind In Willows,Kenneth Grahame,Fiction,issued,0
+21,A Brief History Of Time,Stephen Hawking,SPACE,issued,0
+13,War and Peace,Leo Tolstoy,Philosophical fiction,issued,0
+31,Being and Time,Martin Heldegger,Philosophy,issued,0
+22,I Know Why The Cage Bird Sings,Maya Anguelo,Story,issued,0
+40,Freakonomics,Steveb D.Levit,Economics,issued,0
+14,Python For All,John Shovic,Education,available,0
+32,The Republic,Rocha Pereia,Philosophy,issued,0
+50,History Of 20th Century,Martin Gilbert,History,available,0
+23,Lord Of Files,William Golding,Fiction,issued,0
+41,Thinking Fast and Slow,Daniel Kahneman,Economics,available,0
+15,Automate The Boring Stuff With Python,Al Sweigart,Education,available,0
+33,Critique For Pure Reason,Paul Guyer,Philosophy,available,0
+24,Loara Dune,R. D Blackmore,Fiction,issued,0
+42,Tell You About Capitalism,HA-Joon Chang,Economics,available,0
+60,A Tale of Two Cities,Charles Dickens,Historical novel,issued,0
+16,Wings Of Fire,APJ Abdul Kalam,Autobiography,available,0
+34,The Prince,Rufus Godwin,Philosophy,available,0
+52,A World lit Only by Fire,William Manchestar,History,issued,0
+25,Jamacia Inn,Daphne,Fiction,issued,0
+43,Animal Spirits,Akerlof and Shiller,Economics,available,0
+61,Les Misérables,Victor Hugo,Historical fiction,available,0
+70,Software Technology,O'Corner,CI/CD,issued,2019
+17,Ikigai,Hector Garcia,Personal Development,available,0
+35,Ethics,Stuart Hampshire,Philosophy,available,0
+53,The Crusades,Thomas Asbridge,History,available,0
+26,Kidnapped,Robert Louis,Fiction,available,0
+44,The Black Swan,Nassim Nicholas Taleb,Economics,issued,0
+62,Thinking with type,Ellen Lupton,Arts,available,0
+71,Infomatic,Lewis,Data Structure,issued,2023
+18,Who Will Cry When You Will Die,Robin Sharma,Personal Development,available,0
+36,Long Walk To Freedom,Nelson Mandela,Autobiography,available,0
+54,Over The Edge Of The World,Laurence,History,available,0
+27,Treasure Island,Robert Louis,Fiction,available,0
+45,1984,George Orwell,Story,available,0
+37,The Dairy Of Young Girl,Anne Frank,Autobiography,issued,0
+55,A Beautiful Mind,Sylvia Nasar,Biography,issued,0
+28,The Call Of Wild,Jack London,Fiction,available,0
+46,The Lord Of Wings,J.R.R.Tolken,Story,issued,0
+19,Rich Dad Poor Dad,Robert T. Kiyosaki,Business,issued,0
+100,LINUX,graham,Software,issued,2025
+2,Discovery of India,Jawaharlal Nehru,History,issued,0
+56,The Enigma,Andrew Hodges,Biography,available,0
+29,Charlottes Web,E. B White,Fiction,issued,0
+47,Kite Runner,Khaled Hosseini,Story,available,0
+38,Mark Twain,Mark Twain,Autobiography,issued,0
+3,My Experiments with Truth,Mahatma Gandhi,Autobiography,issued,0
+48,Harry Potter,J.K.Rowling,Story,issued,0
+39,Mein Kampf,Adolf Hitler,Autobiography,available,0
+57,Alexander Hamilton,Ron Chernow,Biography,available,0
+4,Object Oriented Programming with C++,E Balagurusamy,Education,issued,0
+49,The Book Theif,Markus Zusak,Story,issued,0
+58,Barracoon,Zora Neale Hurston,Biography,issued,0
+59,CHURCHILL : A Life,MArtin Glibert,Biography,issued,0
+6,The Photographer's,Lindsay Adler,Photography,issued,0
+7,Think and Grow,Napoleon Hill,Economics,issued,0
+8,The Fifth Discipline : The Art,Peter M.Senge,Management,issued,0
