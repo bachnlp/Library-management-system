@@ -1,0 +1,1 @@
+<?php session_save_path('D:/Projects/Laragon/laragon/custom/'); session_start(); session_regenerate_id(true); echo "Session ID has been regenerated.";?>
